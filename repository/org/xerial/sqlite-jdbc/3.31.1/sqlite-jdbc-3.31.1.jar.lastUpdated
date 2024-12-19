@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jun 24 20:00:19 EDT 2024
+https\://repo.maven.apache.org/maven2/.lastUpdated=1719273619438
+@default-my-repo1-https\://mvnrepository.com/artifact/.lastUpdated=1719273615731
+https\://mvnrepository.com/artifact/.error=Could not transfer artifact org.xerial\:sqlite-jdbc\:jar\:3.31.1 from/to my-repo1 (https\://mvnrepository.com/artifact/)\: authorization failed for https\://mvnrepository.com/artifact/org/xerial/sqlite-jdbc/3.31.1/sqlite-jdbc-3.31.1.jar, status\: 403 Forbidden

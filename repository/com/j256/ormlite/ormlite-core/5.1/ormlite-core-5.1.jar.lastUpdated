@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jun 24 20:00:19 EDT 2024
+https\://repo.maven.apache.org/maven2/.lastUpdated=1719273619473
+@default-my-repo1-https\://mvnrepository.com/artifact/.lastUpdated=1719273615748
+https\://mvnrepository.com/artifact/.error=Could not transfer artifact com.j256.ormlite\:ormlite-core\:jar\:5.1 from/to my-repo1 (https\://mvnrepository.com/artifact/)\: authorization failed for https\://mvnrepository.com/artifact/com/j256/ormlite/ormlite-core/5.1/ormlite-core-5.1.jar, status\: 403 Forbidden

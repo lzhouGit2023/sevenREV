@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jun 24 20:00:19 EDT 2024
+https\://repo.maven.apache.org/maven2/.lastUpdated=1719273619429
+@default-my-repo1-https\://mvnrepository.com/artifact/.lastUpdated=1719273615719
+https\://mvnrepository.com/artifact/.error=Could not transfer artifact junit\:junit\:jar\:4.13 from/to my-repo1 (https\://mvnrepository.com/artifact/)\: authorization failed for https\://mvnrepository.com/artifact/junit/junit/4.13/junit-4.13.jar, status\: 403 Forbidden

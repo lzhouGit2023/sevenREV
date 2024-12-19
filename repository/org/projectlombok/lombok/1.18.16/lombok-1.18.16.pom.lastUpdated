@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jun 24 20:00:19 EDT 2024
+https\://repo.maven.apache.org/maven2/.lastUpdated=1719273619803
+@default-my-repo1-https\://mvnrepository.com/artifact/.lastUpdated=1719273619706
+https\://mvnrepository.com/artifact/.error=Could not transfer artifact org.projectlombok\:lombok\:pom\:1.18.16 from/to my-repo1 (https\://mvnrepository.com/artifact/)\: authorization failed for https\://mvnrepository.com/artifact/org/projectlombok/lombok/1.18.16/lombok-1.18.16.pom, status\: 403 Forbidden
